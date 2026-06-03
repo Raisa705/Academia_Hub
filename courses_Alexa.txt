@@ -1,0 +1,10 @@
+1st Semester,ICT - 1201,Electronic Devices and Circuits,3.0,3 hrs.,N/A
+1st Semester,ICT - 1203,Object Oriented Programming,3.0,3 hrs.,N/A
+1st Semester,ICT - 1205,Engineering Mathematics - ll,3.0,3 hrs.,N/A
+1st Semester,ICT - 1207,Discrete Mathematics,3.0,3 hrs.,N/A
+1st Semester,ICT - 1209,Bangladesh Studies,3.0,3 hrs.,N/A
+1st Semester,ICT - 1202,Electronic Devices and Circuits Lab,1.5,3 hrs.,N/A
+1st Semester,ICT - 1204,Object Oriented Programming Lab,1.5,3 hrs.,N/A
+1st Semester,ICT - 1200,Project work-l and Course Viva,1.0,3 hrs.,N/A
+1st Semester,ICT - 1201,Electronic Devices and Circuits,3.0,3 hrs.,C:\Users\ASUS\Downloads\3ECE0BBA-350F-4373-A44C-EBF9957FA17E (1).pdf
+1st Semester,ICT - 1203,Object Oriented Programming,3.0,3 hrs.,C:\Users\ASUS\OneDrive\Pictures\bristi.jpg
